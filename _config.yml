@@ -11,9 +11,9 @@ title                    : "Mahya Hajihassanpour"
 title_separator          : "-"
 name                     : &name "Mahya Hajihassanpour"
 description              : &description "Scientist and researcher!"
-url                      : https://mahyahhp88.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://mahyahhp.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "mahyahhp88.github.io"
+repository               : "mahyahhp.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
