@@ -1,5 +1,5 @@
 ---
-title: "The solution of 2D depth-averaged Reynolds-Averaged Navier-Stokes (RANS) equations using Discontinuous Galerking for simulating turbulent shallow water flows"
+title: "Simulation of turbulent shallow water flows by solving 2D depth-averaged Reynolds-Averaged Navier-Stokes (RANS) equations using DG method"
 redirect_from: 
   - /Turbulent_flooding.html
 ---
