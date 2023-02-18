@@ -21,6 +21,8 @@ redirect_from:
 
 •	[A comparative study of earthquake source models in high-order accurate tsunami simulations (Fortran)](./tsunami.md)
 
+•	[Simulation of turbulent shallow water flows by solving 2D depth-averaged Reynolds-Averaged Navier-Stokes (RANS) equations using DG method (C++)](./Turbulent_flooding.md)
+
 
 ## Finite volume
 •	[Study on the optimization of a slotted hydrofoil using Genetic algorithm (C++ and Matlab)](./optimization_slotted_hydrofoil.md)
