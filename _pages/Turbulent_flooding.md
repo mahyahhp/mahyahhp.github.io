@@ -5,7 +5,7 @@ redirect_from:
 ---
 
 During my job at the **University of Sheffield**, I extended the **LISFLOOD-FP**, which is an **open-source** flood modelling tool, to enable it simulating **turbulent** shallow flows. 
-For this aim, the [2D depth-averaged Reynolds-Averaged Navier-Stokes (RANS) equations based on the k-$$\epsilon$$ formulation](https://ascelibrary.org/doi/10.1061/%28ASCE%29HY.1943-7900.0001639) are solved using the [second-order discontinuous
+For this aim, the [2D depth-averaged Reynolds-Averaged Navier-Stokes (RANS) equations based on the k-$$\varepsilon$$ formulation](https://ascelibrary.org/doi/10.1061/%28ASCE%29HY.1943-7900.0001639) are solved using the [second-order discontinuous
 Galerkin (DG2) method](https://www.sciencedirect.com/science/article/pii/S004578251830389X) which needs many new developments. This new flood tool with excelent capabilities to accurately capture the mean and turbulent flow features have
 been extensively examined through different practical flood related applications which shows promising results. 
 
