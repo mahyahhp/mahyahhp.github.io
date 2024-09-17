@@ -6,13 +6,14 @@ author_profile: true
 redirect_from: 
   - /jobs.html
 ---
+* Software developer within Flood Modeller team in Jacobs since Feb. 2023.
 
-* My career in the UK has been commenced in July 2021 when I got offered the research associate position at the University of Sheffield. 
+* Research associate position at the University of Sheffield in the UK between Jul. 2021 and Feb. 2023. 
 
-* I have also been at Politecnico di Milano in Italy for a year as a research fellowship wherein I had regular collaborations with industrial partners from the oil/gas and IT sectors. 
+* Rresearch fellowship at Politecnico di Milano in Italy between Aug. 2020 and Jul. 2021.
 
-* Scholar at EPFL University in Switzerland for six months. 
+* Scholar at EPFL University in Switzerland for six months (from Sep. 2017 until March 2018). 
 
-* Teaching Assistant (TA) for four courses during my PhD studies that were CFD I, CFD II, Grid Generation Methods and Convective Heat Transfer.
+* Teaching Assistant (TA) for four courses during my PhD studies that were CFD I, CFD II, Grid Generation Methods and Convective Heat Transfer (2014-2015).
 
 Details of these jobs can be mostly found in [Projects](./projects.md) and [Publications](./publications.md) pages. 
