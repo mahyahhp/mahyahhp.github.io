@@ -12,7 +12,7 @@ A list of my articles is given here. You can also find my journal articles on [m
 |    |------|
 |1.  |M. Hajihassanpour, G. Kesserwani, P. Pettersson and V. Bellos, "[Sampling‐Based Methods for Uncertainty Propagation in Flood Modeling Under Multiple Uncertain Inputs: Finding Out the Most Efficient Choice](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022WR034011)", Water Resources Research, 59(7), 2023, e2022WR034011.|
 |2.  |M. Hajihassanpour, “[A deep artificial neural network assisted genetic algorithm method to optimize a slotted hydrofoil](https://engrxiv.org/preprint/view/3793)”, 2024|
-|3.  |M. Hajihassanpour, “[Injection of a non-Newtonian fluid to improve the hydrofoil performance]()”, 2024.|
+|3.  |M. Hajihassanpour, “[Injection of a non-Newtonian fluid to improve the hydrofoil performance](https://engrxiv.org/preprint/view/3787)”, 2024.|
 |4.  |M. Hajihassanpour and K. Hejranfar, “[A high-order nodal discontinuous Galerkin method for simulation of three-dimensional non-cavitating/cavitating flows](https://www.sciencedirect.com/science/article/abs/pii/S0168874X21001591)”, Finite Elements in Analysis and Design, Vol. 200, 2022.|
 |5.  |M. Hajihassanpour, B. Bonev, and J. S. Hesthaven, “[A comparative study of earthquake source models in high-order accurate tsunami simulations](https://www.sciencedirect.com/science/article/pii/S1463500318302658),” Ocean Modelling, vol. 141, p. 101429, Sep. 2019.|
 |6.  |M. Hajihassanpour and K. Hejranfar, “[A high‐order nodal discontinuous Galerkin method to solve preconditioned multiphase Euler/Navier‐Stokes equations for inviscid/viscous cavitating flows](https://onlinelibrary.wiley.com/doi/abs/10.1002/fld.4792),” International Journal for Numerical Methods in Fluids, Dec. 2019.|
