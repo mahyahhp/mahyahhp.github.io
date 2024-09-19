@@ -17,7 +17,7 @@ Welcome to my website. My name is Mahya Hajihassanpour and I'm a scientific comp
 
 •	**Data science:** Machine learning, deep artificial neural networks, surrogate model, optimization (Gradient Descent and Genetic Algorithms), Uncertainty quantification (Monte Carlo, Latin Hypercube Sampling, Quasi-Monte Carlo, etc)
 
-•	**pre- and/or post-processing tools:** QGIS, ParaView, Gambit, Tecplot
+•	**Pre- and/or post-processing tools:** QGIS, ParaView, Gambit, Tecplot
 
 •	**Fluid dynamics software:** Ansys Fluent, CFX, OpenFOAM
 
